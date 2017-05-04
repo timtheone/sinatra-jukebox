@@ -1,4 +1,3 @@
-source "https://rubygems.org"
 require "sinatra"
 require "sinatra/reloader" if development?
 require "pry-byebug"
@@ -9,5 +8,5 @@ configure :development do
 end
 
 get '/' do
-  'Hello world!'
+  'WHAAAAAAAAAADDDDDDDDAP'
 end
